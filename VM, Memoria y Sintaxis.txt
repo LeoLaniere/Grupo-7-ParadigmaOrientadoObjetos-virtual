@@ -1,0 +1,32 @@
+2. Desafío de Memoria: Tipos Primitivos vs. Tipos de Referencia
+
+lint : Primitivo
+String : Referencia
+doublé : Primitivo
+boolean : Primitivo
+Alumno (Clase personalizada) : Referencia
+Integer (Wrapper class) : Referencia
+char : Primitivo
+int[] (Arreglo de enteros) : Referencia 
+String[] (Arreglo de Strings) : Referencia 
+Object : Referencia
+
+
+
+3. Laboratorio de Sintaxis y Palabras Reservadas A continuación, se presenta un fragmento de código con exactamente 5 errores sintácticos. Su misión es actuar como compilador humano: identifique el error, explique la regla violada y proponga la corrección técnica.
+public Class ProcesadorDatos { 
+	public static void main(String[] args) { 
+		int class = 100;
+		double valorFinal = 95.5;
+		 /* Inicio de proceso de impresión 
+		System.out.println("El resultado es: " + valorfinal);
+		char categoria = "A"; 
+	} 
+
+
+Error 1: Falta cerrar el } en la clase ProcesadorDatos
+Error 2: Falta cerrar el comentario en bloque con */
+Error 3: la variable valorfinal no tiene camelcase
+Error 4: char es con comilla simple y esta con comilla doble.
+Error 5: Class esta mal escrito, seria class (Sin la mayúscula)
+Error 6: se utiliza la palabra class como una variable cuando es palabra reservada 
