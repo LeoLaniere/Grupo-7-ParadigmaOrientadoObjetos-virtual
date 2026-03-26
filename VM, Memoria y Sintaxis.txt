@@ -3,9 +3,9 @@
 	2. b) - La independencia de plataforma, permitiendo la portabilidad del código intermedio.
 	3. b) - Conjunto de convenciones que mejoran mantenimiento profesional del código. la legibilidad y el...
 
-	La VM interpreta o compila en tiempo de ejecución el código intermedio generado previamente. 
+	La VM interpreta o compila en tiempo de ejecución el código intermedio generado previamente. *Verdadero*
 
-	El proceso de compilación a través de la VM es un evento que ocurre exclusivamente en Runtime.
+	El proceso de compilación a través de la VM es un evento que ocurre exclusivamente en Runtime. *Verdadero*
 
 	Java es un lenguaje "case-sensitive", por lo que Objeto y objeto son identificadores distintos. *Verdadero*
 
