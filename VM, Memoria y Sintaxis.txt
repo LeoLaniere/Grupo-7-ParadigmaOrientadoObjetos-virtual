@@ -1,3 +1,18 @@
+1. Preguntas de Opción Múltiple
+	1. c) - Un código intermedio (Bytecode) independiente del hardware.
+	2. b) - La independencia de plataforma, permitiendo la portabilidad del código intermedio.
+	3. b) - Conjunto de convenciones que mejoran mantenimiento profesional del código. la legibilidad y el...
+
+	La VM interpreta o compila en tiempo de ejecución el código intermedio generado previamente. 
+
+	El proceso de compilación a través de la VM es un evento que ocurre exclusivamente en Runtime.
+
+	Java es un lenguaje "case-sensitive", por lo que Objeto y objeto son identificadores distintos. *Verdadero*
+
+	Los comentarios de bloque /* ... */ son procesados por la VM para optimizar el uso de memoria.  *Falso* - los comentarios en bloque son para un mayor entendimiento del código
+
+
+
 2. Desafío de Memoria: Tipos Primitivos vs. Tipos de Referencia
 
 lint : Primitivo
