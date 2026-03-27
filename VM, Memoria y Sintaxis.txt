@@ -68,7 +68,7 @@ Consigna de produccion: Escriba la estructura minima de un programa que cumpla c
 
 
 // Clase princial
-public Class Programa{
+public class Programa{
 
 	public static void main(String[] args) {
 	
