@@ -5,7 +5,7 @@
 
 	La VM interpreta o compila en tiempo de ejecución el código intermedio generado previamente. *Verdadero*
 
-	El proceso de compilación a través de la VM es un evento que ocurre exclusivamente en Runtime. *Verdadero*
+	El proceso de compilación a través de la VM es un evento que ocurre exclusivamente en Runtime. *Falso* - La primer parte de la complilacion se hace antes del Runtime
 
 	Java es un lenguaje "case-sensitive", por lo que Objeto y objeto son identificadores distintos. *Verdadero*
 
