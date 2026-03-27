@@ -45,3 +45,27 @@ Error 3: la variable valorfinal no tiene camelcase
 Error 4: char es con comilla simple y esta con comilla doble.
 Error 5: Class esta mal escrito, seria class (Sin la mayúscula)
 Error 6: se utiliza la palabra class como una variable cuando es palabra reservada 
+
+
+
+4. Ejercicio de Construccion: Estructura Basica y Comentarios
+Consigna de produccion: Escriba la estructura minima de un programa que cumpla con los estandares de produccion. La falta de un delimitador o un punto y coma invalidara el ejercicio.
+
+	1- Declare una clase y el metodo principal con la firma correcta.
+	2- Declare e inicialice un arreglo de tipos primitivos de tamaño 5
+	3- Declare un arreglo de tipos referencia con una capacidad de 3 elementos.
+	4- Documente su codigo utilizando "Buenas practicas": incluya un comentario de linea que explique la intencion de cada arreglo.
+	5- Determine y muestre por consola el tamaño del primer arreglo utilizando la propiedad .length
+
+
+// Clase princial
+public Class Programa{
+
+	public static void main(String[] args) {
+	
+		int[] edades = [3,2,1,4,5] // Edades de los integrantes
+		String[] nombres = ["Emerson", "Lucas", "Simon", "Leo", "Nico"] // Nombres de los integrantes
+
+		System.out.println(edades.length())
+	}
+}
