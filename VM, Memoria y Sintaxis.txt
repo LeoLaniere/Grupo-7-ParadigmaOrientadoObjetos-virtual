@@ -26,6 +26,15 @@ int[] (Arreglo de enteros) : Referencia
 String[] (Arreglo de Strings) : Referencia 
 Object : Referencia
 
+Primitivos: 
+	- Almacenan el valor real exacto.
+	- Se encuentran en el Stack.
+	- No tienen metodos, son datos puros.
+Referencia:
+	- Son una direccion de memoria.
+	- La variable se guarda en el stack, el objeto en el heap.
+	- Tienen atributos y metodos.
+
 
 
 3. Laboratorio de Sintaxis y Palabras Reservadas A continuación, se presenta un fragmento de código con exactamente 5 errores sintácticos. Su misión es actuar como compilador humano: identifique el error, explique la regla violada y proponga la corrección técnica.
